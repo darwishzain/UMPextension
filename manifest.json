@@ -1,7 +1,7 @@
 {
-  "name": "Darwish Zain Extension",
-  "description": "Build an Extension!",
-  "version": "1.0",
+  "name": "UMP Chrome Extension",
+  "description": "This extension was not directly related to University of Malaysia Pahang",
+  "version": "1.0.0",
   "manifest_version": 3,
   "background": {
     "service_worker": "background.js"

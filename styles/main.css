@@ -1,0 +1,19 @@
+body{
+  text-align: center;
+}
+.theLogo{
+  height: : 100px;
+  padding: 10px;
+  margin: 5px;
+}
+.block{
+  display: flex;
+  flex-direction: row;
+}
+a{
+  text-decoration: none;
+  color: #00E5EEFF;
+}
+a:visited{
+  color: #00F0F0FF;
+}
