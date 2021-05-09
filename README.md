@@ -1,5 +1,5 @@
 # UMP Chrome Extension 
-## by [Darwish Zain](https://github.com/darwishzain/) from [Darwish Zain Studio](https://github.com/darwishzainstudio/)
+developed by [Darwish Zain](https://github.com/darwishzain/) from [Darwish Zain Studio](https://github.com/darwishzainstudio/)
 
 ### Cloning the github repository
 ```
@@ -10,7 +10,7 @@ git clone https://github.com/darwishzainstudio/UMPextension.git
 
 ![chrome](readmeSource/1.png?raw=true "chrome://extensions")
 
-2. Click developer mode
+2. Click _developer mode_
 
 before
 ![chrome](readmeSource/2.png?raw=true "disabled")
@@ -25,5 +25,5 @@ after
 ![chrome](readmeSource/5.png?raw=true "developer mode")
 
 ## This is how the extension should looks like
-![chrome](readmeSource/6.png?raw=true "developer mode")
+![chrome](readmeSource/6.png?raw=true "extension")
 
