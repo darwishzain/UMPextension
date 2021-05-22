@@ -1,11 +1,13 @@
 {
-  "name": "UMP Chrome Extension",
-  "description": "This extension was not directly related to University of Malaysia Pahang",
-  "version": "1.0.0",
-  "manifest_version": 3,
+  "author": "Darwish Zain Studio",
   "background": {
     "service_worker": "background.js"
   },
+  "name": "UMP Extension",
+  "description": "This extension was not directly related to University of Malaysia Pahang",
+  "version": "1.0.0",
+  "version_name" : "hidari_1",
+  "manifest_version": 3,
   "permissions": ["storage","activeTab", "scripting"],
   "action": {
    "default_popup": "popup.html",
