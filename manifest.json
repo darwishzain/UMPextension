@@ -1,5 +1,13 @@
 {
+<<<<<<< Updated upstream
   "name": "UMP Chrome Extension",
+=======
+  "author": "Darwish Zain Studio",
+  "background": {
+    "service_worker": "./main/background.js"
+  },
+  "name": "UMP Extension",
+>>>>>>> Stashed changes
   "description": "This extension was not directly related to University of Malaysia Pahang",
   "version": "1.0.0",
   "manifest_version": 3,
@@ -8,18 +16,18 @@
   },
   "permissions": ["storage","activeTab", "scripting"],
   "action": {
-   "default_popup": "popup.html",
+   "default_popup": "./main/popup.html",
    "default_icon": {
-      "16": "/images/get_started16.png",
-      "32": "/images/get_started32.png",
-      "48": "/images/get_started48.png",
-      "128": "/images/get_started128.png"
+      "16": "./main/images/get_started16.png",
+      "32": "./main/images/get_started32.png",
+      "48": "./main/images/get_started48.png",
+      "128": "./main/images/get_started128.png"
     }
   },
   "icons": {
-   "16": "/images/get_started16.png",
-   "32": "/images/get_started32.png",
-   "48": "/images/get_started48.png",
-   "128": "/images/get_started128.png"
+   "16": "./main/images/get_started16.png",
+   "32": "./main/images/get_started32.png",
+   "48": "./main/images/get_started48.png",
+   "128": "./main/images/get_started128.png"
  }
 }
