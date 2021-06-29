@@ -1,8 +1,9 @@
 body{
   text-align: center;
+  width: 500px;
 }
 .theLogo{
-  height: : 100px;
+  height: 100px;
   padding: 10px;
   margin: 5px;
 }
@@ -15,5 +16,5 @@ a{
   color: #00E5EEFF;
 }
 a:visited{
-  color: #00F0F0FF;
+  color: pink;
 }
